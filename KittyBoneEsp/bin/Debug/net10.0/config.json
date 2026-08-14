@@ -1,0 +1,38 @@
+{
+  "Esp": true,
+  "EspBox": false,
+  "EspHealthBar": true,
+  "EspTracer": true,
+  "EspName": true,
+  "EspSkeleton": false,
+  "BoneThickness": 4,
+  "Glow": true,
+  "Aimbot": true,
+  "SilentAim": true,
+  "AimSmooth": 0,
+  "AimFov": 44.412,
+  "AimTarget": 0,
+  "Deathmatch": true,
+  "NoRecoil": true,
+  "RecoilStrength": 1,
+  "Bhop": false,
+  "AntiFlash": true,
+  "CameraFov": true,
+  "CameraFovValue": 110,
+  "TriggerBot": false,
+  "TriggerKey": 86,
+  "Mode": 1,
+  "JumpSounds": true,
+  "TeamColor": [
+    0.32363224,
+    1,
+    0,
+    1
+  ],
+  "EnemyColor": [
+    1,
+    0,
+    0,
+    1
+  ]
+}

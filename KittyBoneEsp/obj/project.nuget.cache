@@ -1,0 +1,106 @@
+{
+  "version": 2,
+  "dgSpecHash": "da7xqJO/6co=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathe\\.nuget\\packages\\clickabletransparentoverlay\\9.1.0\\clickabletransparentoverlay.9.1.0.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\imgui.net\\1.90.0.1\\imgui.net.1.90.0.1.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\sharpgen.runtime\\2.1.2-beta\\sharpgen.runtime.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\sharpgen.runtime.com\\2.1.2-beta\\sharpgen.runtime.com.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\swed64\\1.0.5\\swed64.1.0.5.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\vortice.d3dcompiler\\3.3.4\\vortice.d3dcompiler.3.3.4.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\vortice.direct3d11\\3.3.4\\vortice.direct3d11.3.3.4.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\vortice.directx\\3.3.4\\vortice.directx.3.3.4.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\vortice.dxgi\\3.3.4\\vortice.dxgi.3.3.4.nupkg.sha512",
+    "C:\\Users\\Nathe\\.nuget\\packages\\vortice.mathematics\\1.7.2\\vortice.mathematics.1.7.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-2cmq-823j-5qj8",
+      "projectPath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5x7m-6737-26cr",
+      "projectPath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-63p8-c4ww-9cg7",
+      "projectPath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-65x7-c272-7g7r",
+      "projectPath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-g85r-6x2q-45w7",
+      "projectPath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qxrv-gp6x-rc23",
+      "projectPath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'SixLabors.ImageSharp' 3.0.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-rxmq-m78w-7wmc",
+      "projectPath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Nathe\\Desktop\\Cheats\\cs2Cheats\\KittyMenu\\KittyBoneEsp\\KittyBoneEsp.csproj",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
